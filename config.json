@@ -1,0 +1,12 @@
+{
+    "MQTTClientID": "AzureDataplatform",
+    "MQTTClientUsername": "dtu_b127",
+    "MQTTClientPassword": "ttn-account-v2.J5CREw_vDxAhxR29xtdlptFgFW3EH2HuI-mT-33_y9I",
+    "MQTTBrokerHost": "eu.thethings.network",
+    "MQTTBrokerPort": 1883,
+    "MQTTSubscription": "dtu_b127/devices/+/up",
+    "EventHubURL": "amqps://dpx-202-1-eventhub.servicebus.windows.net/26150-lorawan",
+    "EventHubPolicyName": "devices",
+    "EventHubPrimaryKey": "2D9vXoTmt1mwVbpuiGXnWqAjTbXtgXGRC2Bto19hUFQ=",
+    "EventHubBatchTimer": "600"
+}
